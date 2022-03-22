@@ -1,0 +1,14 @@
+isEmpty
+get 632
+isEmpty
+contains 632
+put 176 \'Gn
+put 950 Y
+contains 950
+put 84 W
+put 611 dq
+put 637 OrvhzYMhW
+isEmpty
+get 632
+put 461 abcde
+get 84

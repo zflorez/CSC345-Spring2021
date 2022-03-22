@@ -1,0 +1,28 @@
+get 46
+contains 46
+isEmpty
+isEmpty
+size 46
+size 46
+size
+contains 46
+get 46
+put 174 uyWYu^_
+size 46
+put 77 \qdKxelG
+contains 77
+contains 77
+put 817 xoyL^p
+put 153 kP
+put 929 udx
+get 929
+get 174
+contains 174
+put 673 aTodLYGOOv
+put 639 obZ
+size
+put 487 taLn
+size 174
+size 673
+size 153
+size 817

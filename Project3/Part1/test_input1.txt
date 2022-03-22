@@ -1,0 +1,20 @@
+size
+isEmpty
+put bT` 39
+get jFjyehjm
+size
+isEmpty
+size
+delete bT`
+size
+get jFjyehjm
+put wHGpyAD 64
+delete wHGpyAD
+isEmpty
+put CUplEXb\Q 34
+contains jFjyehjm
+put wY[BbXfy 89
+contains wHGpyAD
+size
+delete jFjyehjm
+contains CUplEXb\Q

@@ -1,0 +1,25 @@
+put 115 H_[pa
+put 207 SFAhXVv
+isEmpty
+contains 115
+contains 895
+isEmpty
+height
+put 856 B^Wi
+put 771 Ob^XAO
+get 771
+contains 115
+put 103 DNiwiw
+get 771
+contains 115
+put 823 ogv`
+isEmpty
+put 519 oWpAe
+height 823
+get 519
+put 338 [kt
+height 207
+height
+get 103
+height
+put 221 [mPcrFHjY

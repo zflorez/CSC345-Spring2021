@@ -1,0 +1,50 @@
+put bDaTmc 74
+isEmpty
+put O\snPkhvy 81
+put R 54
+contains O\snPkhvy
+isEmpty
+delete R
+contains O\snPkhvy
+delete O\snPkhvy
+contains bDaTmc
+delete R
+delete R
+put cw 38
+delete bDaTmc
+get bDaTmc
+delete O\snPkhvy
+isEmpty
+get cw
+isEmpty
+put csSRA 54
+get O\snPkhvy
+size
+put ox 79
+isEmpty
+size
+put Z 24
+put WGnZ 79
+put WEN 56
+size
+get WEN
+put vwdtlP_XYW 66
+isEmpty
+size
+get qWzwGzPz\
+get ox
+get WEN
+isEmpty
+delete ox
+isEmpty
+isEmpty
+get R
+size
+size
+contains qWzwGzPz\
+size
+put LaWZcB 75
+isEmpty
+put ib 27
+isEmpty
+get cw

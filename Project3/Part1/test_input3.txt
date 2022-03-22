@@ -1,0 +1,100 @@
+get xk
+size
+put yjCdktl_w` 64
+size
+isEmpty
+contains xk
+put QXQKB 94
+isEmpty
+size
+put LLlZlOm]OI 35
+contains yjCdktl_w`
+contains xk
+isEmpty
+delete yjCdktl_w`
+isEmpty
+contains yjCdktl_w`
+get yjCdktl_w`
+delete LLlZlOm]OI
+isEmpty
+put KjcG 4
+isEmpty
+contains yjCdktl_w`
+get KjcG
+delete yjCdktl_w`
+put YkouLBD 86
+get yjCdktl_w`
+delete QXQKB
+delete xk
+size
+size
+delete KjcG
+put MD[iU 46
+size
+contains MD[iU
+size
+get LLlZlOm]OI
+put VIoY 58
+get LLlZlOm]OI
+delete KjcG
+contains QXQKB
+get KjcG
+contains LLlZlOm]OI
+get xk
+put bDhz 44
+size
+contains YkouLBD
+isEmpty
+put EbmsuZnx 92
+isEmpty
+put YR\^vuLY 97
+delete LLlZlOm]OI
+delete LLlZlOm]OI
+size
+size
+isEmpty
+isEmpty
+get VIoY
+contains EbmsuZnx
+get QXQKB
+get YR\^vuLY
+put murbCw`kd 77
+contains MD[iU
+isEmpty
+contains QXQKB
+contains LLlZlOm]OI
+isEmpty
+size
+contains yjCdktl_w`
+contains murbCw`kd
+delete YkouLBD
+isEmpty
+get VIoY
+isEmpty
+get MD[iU
+isEmpty
+delete YkouLBD
+get yjCdktl_w`
+contains murbCw`kd
+isEmpty
+delete YR\^vuLY
+size
+put zzoQFBgxb 85
+put d]aTAhswT 6
+delete MD[iU
+isEmpty
+get bDhz
+contains bDhz
+isEmpty
+get EbmsuZnx
+size
+contains VIoY
+put QxzsAwv 74
+put G`IOYNS 30
+get YR\^vuLY
+isEmpty
+delete VIoY
+put CQ^R\V 0
+contains G`IOYNS
+isEmpty
+delete YkouLBD
